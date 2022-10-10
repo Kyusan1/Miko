@@ -1,21 +1,21 @@
 {
-    "ownerNumber": "6281236167286@s.whatsapp.net",
-    "ownerName": "4K S4",
-    "botName": "4K Sanzz",
-    "footer": "Xcode Team",
+    "ownerNumber": "6287751705806@s.whatsapp.net",
+    "ownerName": "Kyusann",
+    "botName": "Miko-Bot",
+    "footer": "Kyusann",
     "sessionName": "session",
     "pathimg": "./media/hinata.jpg",
     "lolkey": "Beli Sendiri",
-    "youtube": "https://youtube.com/c/4KSanzx",
-    "instagram": "https://instagram.com/4k.sanz",
+    "youtube": "",
+    "instagram": "",
     "gamewaktu": 90,
     "limitCount": 25,
     "gcount": {
         "prem": 35,
-        "user": 1
+        "user": 999
     },
     "sticker": {
-        "packname": "4K Sanzz",
-        "author": "YT 4K Sanzz"
+        "packname": "",
+        "author": "Miko"
     }
 }
